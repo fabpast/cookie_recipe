@@ -1,7 +1,23 @@
 body {
   background-color: #FFE;
+  font-family: helvetica;
+  font-weight: lighter;
+  line-height: 25px;
+  padding-top: 5px;
+  padding-left: 30px;
+  border: 2px solid;
+}
+
+img {
+  margin-top: 25px;
+  border: 2px solid;
 }
 
 a {
   color: #900;
+}
+
+footer {
+  font-size: 12px;
+  padding-bottom: 50px;
 }
